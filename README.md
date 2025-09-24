@@ -73,21 +73,7 @@ LICENSE
 ## 📬 Contact
 
 * Nom : Wilfried Tchegnon Sidy Soglohoun
-* Localisation : Sénégal
+* Localisation : Senegal Dakar Rue 9 Grand Dakar / Diourbel Bambey Leona 
 
 ---
-
-## ⚡ Besoin d’adapter ce README ?
-
-Si tu veux :
-
-* une version anglaise, une version courte pour GitHub profile, ou
-* un README spécifique à un dépôt (par ex. `memoire/`, `bceao-study/`),
-
-indique le dépôt cible et je te fournis immédiatement la version adaptée.
-
----
-
-*README généré automatiquement — modifie-le librement pour refléter ton style.*
-
 
