@@ -2,7 +2,10 @@
 
 **Master en Économétrie | Spécialisation Banque & Finance**
 
-> Analyste économique et data scientist en devenir, centré sur la **stabilité politique** et le **développement financier en Afrique subsaharienne**. Je produis des analyses économétriques (GMM, panels), des visualisations reproducibles et des modèles pour la prise de décision bancaire.
+Analyste quantitatif en formation, spécialisé en économétrie appliquée, mon parcours inclut une formation de niveau Master en Monnaie, Banque et Finance, avec un intérêt particulier pour la modélisation statistique, l’économétrie financière.
+Je développe des projets appliqués visant à résoudre des problématiques réelles en finance et en analyse de données. Mon premier projet porte sur la modélisation de la volatilité des taux de change franc CFA/USD (projet finalisé). Je travaille actuellement sur un second projet consacré à l’analyse et à la modélisation du risque de défaut de crédit, allant de l’estimation de la probabilité de défaut à l’optimisation d’un portefeuille de prêts sous contraintes Bâle/IFRS 9 (en cours de finalisation). Par ailleurs, j’ai acquis une expérience professionnelle de 1ans 6 mois au sein de Ecobank en tant que stagiaire analyste des données clientèle. À ce poste, j’ai participé à la vérification et à la mise en conformité des informations clients, à la mise à jour de bases de données ainsi qu’au suivi opérationnel des comptes. J’ai également réalisé des opérations d’intégration et de contrôle des données dans les systèmes bancaires (FlexCube 12) et d’archivage documentaire (IBPS), renforçant ainsi ma rigueur dans le traitement des données financières en environnement bancaire.
+
+Objectif : appliquer des méthodes économétriques rigoureuses pour soutenir la prise de décision financière basée sur les données.
 
 ---
 
@@ -24,26 +27,25 @@ Je construis des ponts entre données macroéconomiques et décisions financièr
 
 ## 🧰 Compétences & outils
 
-* **Langages & environnements** : R, Python, Stata, Excel, Power BI
+* **Langages & environnements** : R, Python, Stata, Excel, SQL, PostgreSQL
 * **Méthodes** : GMM (panel), tests de Hausman, régressions dynamiques, simulations, bootstrap
 * **Analyses** : séries temporelles macroéconomiques, panels équilibrés, tests de dépendance cross-section
 * **Autres** : modélisation financière, construction de présentations académiques professionnelles
+* SQL(jointures, agrégations, calculs des KPIs et Prise de décision)
 
 ---
 
 ## 📂 Projets en cours
 
-* **Mémoire :** « Stabilité politique et développement financier en Afrique subsaharienne » — empirique + GMM, incluant interprétation des résultats et recommandations politiques.
-* **Analyse BCEAO :** Étude de la réaction de la BCEAO aux chocs inflationnistes (taux d’intérêt, masse monétaire, change).
-* **Formation & supports pédagogiques :** Modules de modélisation financière appliqués au secteur bancaire (scénarios, ratios, normes réglementaires).
+
+* **Analyse  :** Analyse et modélisation du risque de défaut de crédit : de la probabilité de défaut à l’optimisation d’un portefeuille de prêts sous contraintes Bâle/IFRS 9”
+
 
 ---
 
 ## 📈 Contributions & livrables disponibles
 
-* Scripts R et Python reproduisant analyses, graphiques et tests économétriques
-* Tableaux Excel formatés prêts à l’usage pour la soutenance
-* Présentations PowerPoint académiques et professionnelles
+* **Modélisation :** " Modélisation de la Volatilité du taux de chagne FCFA/USD "
 
 ---
 
@@ -66,14 +68,13 @@ LICENSE
 ## 🤝 Collaborations & disponibilité
 
 * Disponible pour co-rédaction, relectures de mémoire et soutenance.
-* Sessions de formation en modélisation financière : **dimanches toute la journée** (préférence utilisateur).
 
 ---
 
 ## 📬 Contact
 
 * Nom : Wilfried Tchegnon Sidy Soglohoun
-* Localisation : Senegal Dakar Rue 9 Grand Dakar / Diourbel Bambey Leona 
-
+* Localisation : Senegal Dakar Rue 9 Grand Dakar
+* *Numero de Telephone : 221781792070
 ---
 
