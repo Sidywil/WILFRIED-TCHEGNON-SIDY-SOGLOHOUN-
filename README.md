@@ -78,6 +78,31 @@ de prêts sous contraintes réglementaires internationales.
 
 ---
 
-## 🗂 Organisation du dépôt
+
+## 🏅 Certifications
+
+| Certification | Organisme | Année |
+|--------------|-----------|-------|
+| *SCIS* — Statistiques du Commerce International des Services | UNSD / OMC / CNUCED (Nations Unies) | 2025 |
+| *MEAL* — Monitoring, Evaluation, Accountability & Learning | DisasterReady / Cornerstone OnDemand | 2025 |
+| *Customer Data Analyst* | micro1 — Certification IA | 2026 |
+
+---
+
+## 🤝 Collaborations & disponibilité
+
+Je suis disponible pour :
+- Des opportunités professionnelles en CDD dans l'analyse de données,
+  le suivi-évaluation ou la gestion de données bancaires
+- Des collaborations académiques, co-rédactions et relectures de mémoire
+
+---
+
+## 📬 Contact
+
+- 📧 *Email :* soglohounwilfried@gmail.com
+- 📞 *Téléphone :* +221 78 179 20 70
+- 💼 *LinkedIn :* [Wilfried Tchegnon Sidy Soglohoun](https://www.linkedin.com/in/wilfried-t-sidy-soglohoun-845a13284)
+- 📍 *Localisation :* Grand Dakar, Dakar — Sénégal
 ---
 
