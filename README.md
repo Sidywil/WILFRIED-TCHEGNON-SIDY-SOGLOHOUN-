@@ -1,80 +1,83 @@
-# Wilfried Tchegnon Sidy Soglohoun — Portfolio & Projets
+# Wilfried Tchegnon Sidy Soglohoun
 
-**Master en Économétrie | Spécialisation Banque & Finance**
-
-Analyste quantitatif en formation, spécialisé en économétrie appliquée, mon parcours inclut une formation de niveau Master en Monnaie, Banque et Finance, avec un intérêt particulier pour la modélisation statistique, l’économétrie financière.
-Je développe des projets appliqués visant à résoudre des problématiques réelles en finance et en analyse de données. Mon premier projet porte sur la modélisation de la volatilité des taux de change franc CFA/USD (projet finalisé). Je travaille actuellement sur un second projet consacré à l’analyse et à la modélisation du risque de défaut de crédit, allant de l’estimation de la probabilité de défaut à l’optimisation d’un portefeuille de prêts sous contraintes Bâle/IFRS 9 (en cours de finalisation). Par ailleurs, j’ai acquis une expérience professionnelle de 1ans 6 mois au sein de Ecobank en tant que stagiaire analyste des données clientèle. À ce poste, j’ai participé à la vérification et à la mise en conformité des informations clients, à la mise à jour de bases de données ainsi qu’au suivi opérationnel des comptes. J’ai également réalisé des opérations d’intégration et de contrôle des données dans les systèmes bancaires (FlexCube 12) et d’archivage documentaire (IBPS), renforçant ainsi ma rigueur dans le traitement des données financières en environnement bancaire.
-
-Objectif : appliquer des méthodes économétriques rigoureuses pour soutenir la prise de décision financière basée sur les données.
+### Analyste de Données Junior | Économétrie Appliquée | Banque & Finance | Certifié SCIS-ONU
 
 ---
 
-## 🚀 Accroche
+## 👤 À propos de moi
 
-Je construis des ponts entre données macroéconomiques et décisions financières : tests économétriques rigoureux, visualisations claires et modèles reproductibles. Mon travail sert la recherche académique et l’application pratique en banque.
+Titulaire d'un Master en Économétrie Appliquée, spécialisé en Monnaie, Banque 
+et Finance (Université Alioune Diop de Bambey, Sénégal), je suis un analyste 
+quantitatif passionné par la modélisation statistique et l'économétrie financière.
+
+Fort de 18 mois d'expérience professionnelle chez *Ecobank Sénégal* en tant 
+qu'analyste de données clientèle, j'ai développé une rigueur solide dans le 
+traitement des données financières en environnement bancaire réel — sur les 
+systèmes *Flexcube 12* et *IBPS*.
+
+Je construis des ponts entre données macroéconomiques et décisions financières :
+tests économétriques rigoureux, visualisations claires et modèles reproductibles,
+au service de la recherche académique comme de l'application pratique en banque.
+
+*Objectif :* appliquer des méthodes économétriques rigoureuses pour soutenir 
+la prise de décision financière basée sur les données.
 
 ---
 
-## 🔭 Thèmes de recherche & intérêts
+## 🔭 Thèmes de recherche & centres d'intérêt
 
-* **Stabilité politique et développement financier** en Afrique subsaharienne
-* Réaction des banques centrales aux chocs inflationnistes (ex. BCEAO)
-* Modèles dynamiques de panel, endogénéité et GMM
-* Économétrie appliquée, simulation et bootstrap
-* Machine learning pour la finance bancaire
+- *Stabilité politique et développement financier* en Afrique subsaharienne
+- Réaction des banques centrales aux chocs inflationnistes (ex. BCEAO)
+- Modèles dynamiques de panel, endogénéité et GMM
+- Économétrie appliquée, simulation et méthodes Bootstrap
+- Machine learning appliqué à la finance bancaire
+- Modélisation du risque de crédit sous contraintes réglementaires (Bâle III / IFRS 9)
 
 ---
 
 ## 🧰 Compétences & outils
 
-* **Langages & environnements** : R, Python, Stata, Excel, SQL, PostgreSQL
-* **Méthodes** : GMM (panel), tests de Hausman, régressions dynamiques, simulations, bootstrap
-* **Analyses** : séries temporelles macroéconomiques, panels équilibrés, tests de dépendance cross-section
-* **Autres** : modélisation financière, construction de présentations académiques professionnelles
-* SQL(jointures, agrégations, calculs des KPIs et Prise de décision)
+| Catégorie | Détail |
+|-----------|--------|
+| *Langages & environnements* | R, Python, Stata, SQL, PostgreSQL, Excel avancé |
+| *Méthodes économétriques* | GMM, tests de Hausman, régressions dynamiques, Bootstrap, simulation |
+| *Analyses* | Séries temporelles, données de panel, tests de dépendance cross-section |
+| *Finance & banque* | Modélisation financière, risque de crédit, probabilité de défaut |
+| *Systèmes bancaires* | Flexcube 12, IBPS |
+| *Autres* | KPIs, jointures SQL, agrégations, prise de décision basée sur les données |
 
 ---
 
-## 📂 Projets en cours
+## 📂 Projets
 
+### ✅ Projet 1 — Finalisé
+*Modélisation de la Volatilité du Taux de Change FCFA/USD*
 
-* **Analyse  :** Analyse et modélisation du risque de défaut de crédit : de la probabilité de défaut à l’optimisation d’un portefeuille de prêts sous contraintes Bâle/IFRS 9”
+Modélisation économétrique de la volatilité du taux de change entre le 
+franc CFA et le dollar américain. Analyse des dynamiques macroéconomiques 
+et financières à travers des méthodes de séries temporelles avancées.
 
+- *Méthodes :* Modèles GARCH, séries temporelles, tests de stationnarité
+- *Outils :* R, Python, Stata
+- *Statut :* ✅ Finalisé
 
 ---
 
-## 📈 Contributions & livrables disponibles
+### 🔄 Projet 2 — Finalisé
+*Analyse et Modélisation du Risque de Défaut de Crédit*
+*De la probabilité de défaut à l'optimisation d'un portefeuille de prêts 
+sous contraintes Bâle III / IFRS 9*
 
-* **Modélisation :** " Modélisation de la Volatilité du taux de chagne FCFA/USD "
+Projet complet couvrant l'estimation de la probabilité de défaut, 
+la modélisation du risque de crédit et l'optimisation d'un portefeuille 
+de prêts sous contraintes réglementaires internationales.
+
+- *Méthodes :* Régression logistique, modèles de scoring, optimisation sous contraintes
+- *Outils :* R, Python, SQL
+- *Statut :* 🔄 En cours de finalisation
 
 ---
 
 ## 🗂 Organisation du dépôt
-
-```
-README.md
-data/                # jeux de données (exemples, instructions pour reproduire)
-notebooks/           # notebooks R / Python (analyses reproductibles)
-src/                 # scripts réutilisables
-reports/             # rapports et présentations
-figures/             # graphiques exportés
-LICENSE
-```
-
-**Bonnes pratiques** : fournir un `README` par dossier `notebooks/` expliquant comment exécuter les scripts et lister les packages nécessaires.
-
----
-
-## 🤝 Collaborations & disponibilité
-
-* Disponible pour co-rédaction, relectures de mémoire et soutenance.
-
----
-
-## 📬 Contact
-
-* Nom : Wilfried Tchegnon Sidy Soglohoun
-* Localisation : Senegal Dakar Rue 9 Grand Dakar
-* *Numero de Telephone : 221781792070
 ---
 
