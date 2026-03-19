@@ -63,7 +63,7 @@ et financières à travers des méthodes de séries temporelles avancées.
 
 ---
 
-### 🔄 Projet 2 — Finalisé
+### ✅ Projet 2 — Finalisé
 *Analyse et Modélisation du Risque de Défaut de Crédit*
 *De la probabilité de défaut à l'optimisation d'un portefeuille de prêts 
 sous contraintes Bâle III / IFRS 9*
@@ -74,7 +74,7 @@ de prêts sous contraintes réglementaires internationales.
 
 - *Méthodes :* Régression logistique, modèles de scoring, optimisation sous contraintes
 - *Outils :* R, Python, SQL
-- *Statut :* 🔄 En cours de finalisation
+- *Statut :* ✅ Finalisé
 
 ---
 
