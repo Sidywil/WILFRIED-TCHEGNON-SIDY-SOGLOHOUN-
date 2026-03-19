@@ -52,7 +52,7 @@ et financières à travers des méthodes de séries temporelles avancées.
 
 ---
 
-### 🔄 Projet 2 — En cours de finalisation
+### ✅ Projet 2 — Finalisé
 *Analyse et Modélisation du Risque de Défaut de Crédit*
 *De la probabilité de défaut à l'optimisation d'un portefeuille de prêts 
 sous contraintes Bâle III / IFRS 9*
@@ -82,7 +82,7 @@ Je suis disponible pour :
 ## 📬 Contact
 
 - 📧 *Email :* soglohounwilfried@gmail.com
-- 📞 *Téléphone :* +221 78 179 20 70
+- 📞 *Téléphone :* +221 78 179 20 70/ 787115025
 - 💼 *LinkedIn :* [Wilfried Tchegnon Sidy Soglohoun](https://www.linkedin.com/in/wilfried-t-sidy-soglohoun-845a13284)
 - 📍 *Localisation :* Grand Dakar, Dakar — Sénégal
 - *Méthodes :* Régression logistique, modèles de scoring, optimisation sous contraintes
